@@ -4,7 +4,7 @@ import axios from "axios";
 import Header from "../header/Header";
 
 const Body = () => {
-    const APIKEY = "4d2868699f6ab95203d92eab296afa21";
+    const APIKEY = "Hidden"
     // put key in env
 
     const [movie, setMovie] = useState([]);
